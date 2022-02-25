@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of an honest Common-council man Mr. Chairman, the discent from France, I confess finds more credit with me than I was willing at first to give it; and from the just apprehension I have of the consequences of it, I now rise to speak; ...</title>
+            <author>Honest Council-man.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61038</idno>
+            <idno type="STC">Wing S4862BA</idno>
+            <idno type="STC">ESTC R215447</idno>
+            <idno type="EEBO-CITATION">99827322</idno>
+            <idno type="PROQUEST">99827322</idno>
+            <idno type="VID">31740</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61038)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31740)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2153:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of an honest Common-council man Mr. Chairman, the discent from France, I confess finds more credit with me than I was willing at first to give it; and from the just apprehension I have of the consequences of it, I now rise to speak; ...</title>
+                  <author>Honest Council-man.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London,</pubPlace>
+                  <date>1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption title and first lines of text.</note>
+                  <note>Text in two columns.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Early works to 1800.</term>
+               <term>James, --  Prince of Wales, 1688-1766.</term>
+               <term>Great Britain --  History --  Revolution of 1688 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-16888 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  1660-1714 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:31740:1"/>
+            <p>THE <hi>Diſcent</hi> from <hi>France,</hi> I confeſs finds more credit with me than I was willing at firſt to give it; and from the juſt Apprehenſion I have of the Conſe<g ref="char:EOLhyphen"/>quences of it, I now Riſe to ſpeak; and with that freedom which belongs to the part I have in this Aſſembly, and the Importance of the preſent Occaſion. I have obſerved the warmth of ſome of the Members of this Council, their diſ<g ref="char:EOLhyphen"/>belief or contempt of the Deſign, and their great aſſurance of the inſuccesfulneſs of it, But by the force of their Argu<g ref="char:EOLhyphen"/>ments, they ſeem to ſhew more of Inclination than Reaſon to recommend their Opinions; and by their Age, that they have never felt the miſeries of a <hi>Civil War:</hi> They can per<g ref="char:EOLhyphen"/>haps endure them in another <hi>Country,</hi> and read of them in <hi>Gazets</hi> without ſhrinking, but ſeeing, and feeling them, are other things: Thoſe that have been in the midſt of the <hi>Fire, Rapes</hi> and <hi>Slaughter,</hi> of a Country torn in pieces by <hi>Civil War,</hi> as I have been, will, I hope with me, think it too coſt<g ref="char:EOLhyphen"/>ly, and deſperate a Remedy for any Diſeaſe in Government; But to be ſure it ſhould be the laſt, and to be then only uſed when nothing elſe will do. For it is then, that we can truly call nothing our own; and that inſtead of one, we have ten thouſand <hi>Tyrants:</hi> For every body is <hi>Arbitrary</hi> in ſuch Caſes; and the dear Property, for which we make <hi>War,</hi> is by nothing elſe ſo dangerouſly expos'd. No forms of Law then to fly to, Nor Juſtice to protect us; But Power ſuper<g ref="char:EOLhyphen"/>cedes Right, and the ſtrongeſt is the lawful Poſſeſſor. In this diſmal ſtate, we are as unſafe in our Lives, as in our Fortunes. When we riſe, we are not ſure to eſcape till Night: Nor when we lye down, that we, our Wives, and little Ones, ſhall ever live to ſee another Day. And if our Lives, to be ſure our Eſtates, muſt be precarious. And the manner of this Miſery has ſomething ſo frightful in it, that the loſs is yet leſs than the <hi>Terror.</hi> And when I conſider the Preparation that is in the minds of Men amongſt us, of both Intereſts, by their repeated Provocations, and old and freſh Prejudices; I cannot but dread the Conſequences of the <hi>Civil War</hi> our oppoſition will engage us in.</p>
+            <p>If this <hi>Diſcent</hi> was deſign'd for Deſtruction, and not for <hi>Reſtoration;</hi> If it were to Invade a Crown, inſtead of retur<g ref="char:EOLhyphen"/>ning to one Invaded, and coming home to ones own, we might have the pretence of a <hi>Fr. Invaſion</hi> to reſiſt it; and the powerful motives of <hi>Liberty</hi> and <hi>Property,</hi> to hinder the De<g ref="char:EOLhyphen"/>predation of Foreigners. But this is not our Caſe, we talk of oppoſing one that comes as <hi>Our King,</hi> and <hi>Our Legal King,</hi> a <hi>King</hi> according to the <hi>Conſtitution of our Realm.</hi> In whom, as I have heard great Lawyers ſay, we cannot Legally disin<g ref="char:EOLhyphen"/>tereſt our ſelves; Who was compelled from us, for his own Safety, and returns now for ours, before we are quite ruined. That he retired for his own, what has followed declares, and that he comes for ours, the nature of his coming informs us; It is not as a <hi>Conqueror,</hi> or an <hi>Avenger,</hi> Becauſe he ſeeks us as a <hi>Friend,</hi> and a <hi>Father;</hi> Not with <hi>Fire</hi> and <hi>Sword,</hi> but the <hi>Olive-branch</hi> of <hi>Peace; Remitting</hi> inſtead of <hi>Revenging</hi> Wrongs; and aſſuring us, of all the <hi>Security</hi> that our ſelves in <hi>Parliament</hi> can reaſonably deviſe, for our <hi>Religion</hi> and <hi>Pro<g ref="char:EOLhyphen"/>perty.</hi> This is not the ſtrain of <hi>Conqueſt,</hi> or the ſtile of <hi>Ven<g ref="char:EOLhyphen"/>geance.</hi> Now the queſtion is which of the two we will chuſe, <hi>Peace</hi> or <hi>War, Plenty</hi> or <hi>Poverty, Safety</hi> or <hi>Ruin?</hi> But, I think, it ought to be none, at this time of day, with us; For ſince God only knows who ſhall Survive ſuch a <hi>Tragedy,</hi> it is our great care to prevent it. For we cannot ſuppoſe if we re<g ref="char:EOLhyphen"/>fuſe his <hi>R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yl<g ref="char:punc">▪</g>Offer,</hi> and make head againſt his Return, but he will conteſt our Denials, and appeal to Heaven (the conſtant Avenger of his <hi>Injured Anceſtors</hi>) and purſue his Claim to extremity: Nor is it to be thought that they who have lent him this Strength, will not pour in more to Support him. The <hi>French</hi> K. does not uſe to venture inconſiderately; he has ſatisfied himſelf (no doubt) of the charge, and probabi<g ref="char:EOLhyphen"/>lity of the Enterprize, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>allowances for all Accidents: For no Prince puts leſs to ha<g ref="char:EOLhyphen"/>zard, and by what he has done, and does ſtill to our aſto<g ref="char:EOLhyphen"/>niſhment, notwithſtanding the Enemies he has upon his hands, We have juſt cauſe to apprehend the Conſequences of this <hi>Diſcent,</hi> if we obſtinately oppoſe the Return of our King: We may believe he does not only know his own ſtrength, but our weakneſs to reſiſt it; that our <hi>Army</hi> is ſmall, and diſcontented; very few <hi>Fortifications;</hi> none within Land, and that we are broken with Factions within our ſelves. He muſt alſo be ſatisfied with the aſſurances K. <hi>James</hi> has received from hence, tho the extream Caution he ſhews in every thing will not ſuffer him to rely upon that: And I am not abſolutely ſatisfied, that even ſome of thoſe we may think to oblige by our oppoſition, are not of the num<g ref="char:EOLhyphen"/>ber of them that have <hi>Promiſed:</hi> I ſay, I will not anſwer for them. However I cannot think but the King will find a conſiderable Intereſt here, among every ſort. <hi>Firſt,</hi> All thoſe that have never quitted him, and find themſelves <hi>op<g ref="char:EOLhyphen"/>preſt,</hi> by the payment of <hi>double Taxes,</hi> for not Swearing to this Government: This ſort will adhere and diſpute it to the laſt; for if he miſcarry, they know they muſt either com<g ref="char:EOLhyphen"/>ply againſt their Conſciences, or be ruined in their Fortunes, which another Year will certainly become a <hi>Tax</hi> to the Go<g ref="char:EOLhyphen"/>vernment, for the Penalty will riſe with their Conſtancy, and the Exigency of the Times. <hi>Secondly,</hi> There is another ſort of People that were carried out of their depth, by the ſtrength of the <hi>Tyde,</hi> that moved things at the P. of O. com<g ref="char:EOLhyphen"/>ing hither; and tho theſe Men would have others excuſe them from the neceſſity of the Times, they ſhew daily in their Diſcourſes they cannot forgive themſelves: Their old profeſſion of Loyalty flies in their Faces, and they would be glad of the opportunity of <hi>recovering that ſlip,</hi> at almoſt any rate; and their number is as great as their deſire to ſet themſelves right in the good Opinion of their Friends. <hi>Thirdly,</hi> There is a Party that liked the Change ver<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> well, but are miſerably diſappointed under it; and as none are more diſcontented with it, ſo none are ſharper upon it. They talk loudly of <hi>breach of Faith, That the publick Money is imbezled, Double Accompts kept, Strangers preferr'd before Engliſh<g ref="char:EOLhyphen"/>men, The one paid, the other not; That the great Inſtruments and Leaders of the Change are laid aſide, or neglected; All popular Bills ſtifled, or rejected; and that Oppreſſion, and Corruption in Officers, both by Sea and Land, connived at;</hi> And theſe Gen<g ref="char:EOLhyphen"/>tlemen will doubtleſs cloſe upon reaſonable Terms, or be ſafe by a <hi>Neutrality. Fourthly,</hi> All <hi>Trades-men</hi> and <hi>Farmers</hi> find that deadneſs in Buſineſs, together with heavy and growing Taxes, that they begin to <hi>feel,</hi> what they have hi<g ref="char:EOLhyphen"/>therto refus'd to <hi>hear,</hi> that they are like to be ruined by the <hi>War,</hi> and what the Gentleman does will ſway moſt with them. <hi>Laſtly,</hi> The <hi>Mob</hi> who are almoſt <hi>ſtarving</hi> every<g ref="char:EOLhyphen"/>where for want of <hi>Peace,</hi> always loved <hi>Changes</hi> and <hi>Novel<g ref="char:EOLhyphen"/>ty,</hi> expecting ſtill that there is ſomething to be got by them. So that upon the whole Matter, there ſeems no ſort of Men but <hi>thoſe</hi> who are actually in <hi>Office,</hi> likely to venture for the preſent Government in an extremity; and when they cannot find their Names in the <hi>King</hi>'s Declaration among the <hi>excepted,</hi> I dare ſay, they'll not be to be found by the Government when it wants their Support. Not to ſay that ſome of them would perhaps be willingly thought by King <hi>James</hi>'s Party to intend his Service, by being in it; They can the better conduct it to his ends, and recommend themſelves, by making the Change eaſier, when the time comes.</p>
+            <p>Shall we then of this City add to our former Reckonings? Or by our wiſe management blot them out? It is not a time of day for us to be Tools; <hi>London</hi> that has moſt to looſe, has moſt to take care of, and for that reaſon ſhould run
+<pb facs="tcp:31740:2"/>the leaſt hazard; for it is certain if <hi>We</hi> reſiſt, whoever has the beſt of it, <hi>Poor England</hi> will have the worſt; and of all <hi>England,</hi> to be ſure <hi>London:</hi> I think that is enough to men in buſineſs, that have ſomething to looſe, and deſire to get by honeſter ways than Sacking and Plundering.</p>
+            <p>But though theſe conſiderations ſeem moving enough, up<g ref="char:EOLhyphen"/>on a prudent account, yet there is ſomething I muſt leave with you, that ſticks much with me in point of <hi>Judgment</hi> and <hi>Conſcience,</hi> and which I beſeech you to hear with <hi>patience,</hi> and interpret with <hi>Candor. Firſt,</hi> I do profeſs to you, I am not ſatisfied with the power of changing Governments, that we have lately exerciſed; It is plain, our Laws have never allow'd it; and in the end have ever puniſhed it: Obſerve the concluſion of thoſe four or five Interruptions of the right Line, that have been ſince the Conqueſt, which is now more than Six hundred years, and you will find things have ever returned to their own Channel, with un<g ref="char:EOLhyphen"/>happy marks upon the Families that have been the Authors of them. Of which Sir <hi>Walter Raleigh</hi> in his excellent Pre<g ref="char:EOLhyphen"/>face to his <hi>Hiſtory</hi> of the <hi>World</hi> is very particular and in<g ref="char:EOLhyphen"/>ſtructing; And we are ſure, that the Law was ſo under<g ref="char:EOLhyphen"/>ſtood, and given by all the learned Judges and Council of the Kingdom, <hi>Anno</hi> 1660. at the Trial of the <hi>Kings</hi> Judges: A Gentleman of my Intimacy obliged me lately with the reading of it; and truly I could not but lament the unhap<g ref="char:EOLhyphen"/>pineſs of us Engliſhmen, that <hi>Loyalty</hi> and <hi>Rebellion</hi> ſhould have ſuch uncertain ſignifications with us; and that in leſs than half an Age, what was then called <hi>Loyalty,</hi> is now ac<g ref="char:EOLhyphen"/>counted <hi>Treaſon,</hi> and that which is <hi>Loyalty</hi> now, was then adjudged <hi>Rebellion:</hi> For it was the ſenſe of that great pre<g ref="char:EOLhyphen"/>ſence, great both in Quality and Law, when the P. Coun<g ref="char:EOLhyphen"/>cil, Judges, Lawyers, and many of both Houſes of Parlia<g ref="char:EOLhyphen"/>ment were there, but particularly of Sir <hi>Orlando Bridgman,</hi> and Sir <hi>Heneage Finch,</hi> one Keeper, the other Chancellor ſince, that the Kings of <hi>England</hi> are <hi>Soveraign Princes,</hi> and not ac<g ref="char:EOLhyphen"/>countable to the People, either <hi>Collectively</hi> or <hi>Repreſentative<g ref="char:EOLhyphen"/>ly;</hi> and they urged that old maxime, <hi>The King cannot err, be<g ref="char:EOLhyphen"/>cauſe the King acts by other Perſons.</hi> And indeed no man would be a <hi>King</hi> to anſwer for every fault, in the Adminiſtration, which he either cannot always underſtand, or muſt be om<g ref="char:EOLhyphen"/>nipreſent to hinder: But here the Caſe was quite contrary, and this antient Doctrine of Law turn'd upſide down; <hi>For no body was puniſh'd but the King.</hi> And it is whiſpered by ſome that ſhould know, that the moſt offenſive acts of his Govern<g ref="char:EOLhyphen"/>ment, were the advices of thoſe, that are in the favour of this, as if they had been concerted, and laid elſewhere, for his ruine. I think we ſhould be more conſtant to our ſelves, and have one fixt Rule of Duty, and that our Obedience to it, ſhould be our ſafety: And if that pernitious Principle, or Practice at leaſt of doing evil that good may come of it, was out of the World; we might be quiet if not proſperous, that were a great part of happineſs; I cannot think, but they who to mend the matter, ſtep out of Gods way, as well as that of the Law, in the end miſs the mark, and looſe by the Attempt; they ſeem to diſengage <hi>Providence,</hi> from taking care of their <hi>Proſperity</hi> or <hi>Protection,</hi> that ſeek it by indirect means.</p>
+            <p>Another thing is this, that as the ſuppoſition of the <hi>Kings</hi> Impoſing a falſe Child upon the Kingdoms, to the prejudice of the undoubted Heirs, was the beſt excuſe, as well as the pretence for the <hi>Dutch Invaſion;</hi> ſo beſides what the <hi>King</hi> did before, to prove the Legitimacy of the <hi>Prince</hi> of <hi>Wales;</hi> He has put his Queens <hi>Childableneſs,</hi> or capacity of having Children, out of all queſtion, by ſending above 30 Letters to Lords, Ladies, and Gentlemen of the <hi>Proteſtant</hi> Religion amongſt us, <hi>viz.</hi> Some of his old Privy Council, and others in this Government to be Witneſſes of the Birth of the Child ſhe now goes with; A Condeſcention in a <hi>King</hi> and <hi>Queen,</hi> that would overcome any obſtinacy but ours; and I hope we are not ſo ſenſleſly and malic<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouſly tenacious, as to reject the conviction and ſatisfaction the <hi>King</hi> offers us; eſpecially, when we made the pretence of wanting it before, an Argu<g ref="char:EOLhyphen"/>ment to reject him. For then we proclaim our diſſatisfa<g ref="char:EOLhyphen"/>ction but a pretence, and therein our own <hi>Immorality</hi> to the World. And truly Gentlemen, when I remember that other Folks have forgotten to examine in Parliament that point of the <hi>Pr.</hi> of <hi>Ws;</hi> it is beyond all ſcruple with me, the doing it was never meant, and it is a queſtion to be free with you, if they made any of the truth of his Birth, that have got ſo much by pretending the Impoſture. Elſe they would not have ſent Monſieur <hi>Zuleſteine</hi> to Complement the <hi>K.</hi> and <hi>Qu.</hi> upon it as they did; and to my own knowledge this Govern<g ref="char:EOLhyphen"/>ment has been challenged upon this point; that if People might have leave, the truth of the Birth of the <hi>Pr.</hi> ſhould be made out in <hi>Parliament,</hi> beyond all manner of exception, but no Anſwer was ever yet obtained. And if the <hi>Kings</hi> of <hi>Engl.</hi> were depoſable, as they are not, (for if the Crown takes away the defects in a lawful Succeſſor, as ſaith our Law, it receives, and admits, of none in the Regnant perſon) yet the next <hi>Heir</hi> always Inherits: But here the next <hi>Heir</hi> is exclu<g ref="char:EOLhyphen"/>ded, and excluded as an <hi>Impoſture,</hi> and yet the <hi>Impoſture</hi> is not at all m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de appear: The <hi>K.</hi> and <hi>Qu.</hi> own him, and 17. or 18. People of Quality that are <hi>Proteſtants;</hi> and ſome of them in this Government are Witneſſes of his Birth; and more off<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r to prove it: This ſticks with me, I have Children of my own, and all of them had not ſo many Witneſſes of the truth of their Birth, and yet I ſhould take it very ill, if any ſhould queſtion it; and before I end this particular, I muſt ſay, that for a King, ſo far to humour this baſe Jea<g ref="char:EOLhyphen"/>louſie, and to ſtoop to our prejudice, as well as our igno<g ref="char:EOLhyphen"/>rance, to let our Eyes convince us, and juſtifie him, ſhows to me Gentlemen, I don't know what it does to you, that he d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſires not to cut his way to his Cr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wn through Blood, nor to appeaſe his diſpleaſure, with the Lives and Eſtates of his miſlead, or <hi>miſleading</hi> Subjects; but to be reconciled to his offending People; or elſe he would certainly not ſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k to inform them, but to deſtroy them. My laſt poi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that he does not appear to me, to be that <hi>Arbitrary</hi> Man, any more, than the Inſincere Man, we have had him repreſen<g ref="char:EOLhyphen"/>ted to us. For if he intended an abſolute Rule, He would come as a <hi>Conqueror,</hi> and not as a <hi>Legal King;</hi> with no <hi>De<g ref="char:EOLhyphen"/>claration,</hi> but his <hi>Sword,</hi> and that ſhould be the <hi>Tenour</hi> of his <hi>Crown,</hi> and the <hi>Condition</hi> of our <hi>Obedience.</hi> This is our fear or pretence; if this were his aim, or hope, he would never come, while we were able to reſiſt; He would ſtay till the War had not left us the power, as well as the heart to do it. But his coming now, tells us plainly he had rather be a <hi>King</hi> than a <hi>Tributary,</hi> and the <hi>King</hi> of a <hi>Free</hi> and a <hi>Rich</hi> People, then of <hi>Beggars</hi> and <hi>Slaves;</hi> For he knows as well as we, the many <hi>Millions</hi> we have paid, the <hi>Lives</hi> that are loſt, the <hi>Ships</hi> that are taken, and the <hi>decay</hi> alſo of <hi>Trade;</hi> And that all this <hi>Treaſure, Blood,</hi> and <hi>Loſs,</hi> have <hi>only humbled England;</hi> and that <hi>France</hi> is not a jot the weaker for it; but that the War at home (to get and keep his Crown) has only devour<g ref="char:EOLhyphen"/>ed it, and that now we are beginning the War with <hi>France;</hi> (That he knows is Wiſe, Rich, and Strong) after three years Conſumption, within our ſelves, upon private ends. A fear<g ref="char:EOLhyphen"/>ful and coſtly Ambition! What we were told was never in<g ref="char:EOLhyphen"/>tended, but what we ſee, and feel, has been the effect of the change. <hi>God</hi> help us, and help us to underſtand our ſelves, that we may help our ſelves, while we can, in the evening of our time, or we are a loſt People. I have done Gentle<g ref="char:EOLhyphen"/>men, when I have told you, I am for meeting the <hi>King</hi> in the Ways of <hi>Peace</hi> and <hi>Duty,</hi> and beſeech you, by the love you bear, to your <hi>Wives,</hi> your <hi>Children,</hi> your <hi>Selv<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> and your <hi>Country,</hi> that you embrace my Motion, for <hi>Honeſt</hi> Men, and <hi>Engliſh</hi> Men, can have no <hi>Pleaſure,</hi> or <hi>Intereſt,</hi> in ſeeing the <hi>Royal Family,</hi> torn in pieces, and theſe <hi>Kingdoms</hi> deſtroyed in the <hi>Fray.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
